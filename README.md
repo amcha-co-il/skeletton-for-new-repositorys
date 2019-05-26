@@ -1,0 +1,1 @@
+# skeletton-for-new-repositorys
